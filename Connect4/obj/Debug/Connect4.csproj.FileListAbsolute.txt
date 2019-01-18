@@ -1,0 +1,7 @@
+C:\Users\theka\Documents\Projets C#\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\theka\Documents\Projets C#\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\theka\Documents\Projets C#\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\theka\Documents\Projets C#\Connect4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\theka\Documents\Projets C#\Connect4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\theka\Documents\Projets C#\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\theka\Documents\Projets C#\Connect4\Connect4\obj\Debug\Connect4.pdb
